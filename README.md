@@ -4,7 +4,7 @@
 
 This repository hosts the canonical documentation of the Societas system, including:
 
--   The **Semantic U-Substitution Table**: a symbolic grammar for encoding ideas  
+-   The **Semantic U-Substitution Table**: a symbolic grammar for encoding ideas (check dictionary for comprehensive defs)
 -   **Strata Cards**: discrete symbolic constructs representing ethical, political, cognitive, and metaphysical kernels  
 -   Simulation logs from **env:dyn** (dynamic synthesis mode) and **env:sta** (static modeling mode)  
 -   A complete **Lexicon** of custom semantic operators  
