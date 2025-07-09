@@ -68,10 +68,4 @@ Suggested extensions:
 - `U_bio`: Biological Symbolism and Consciousness  
 - `U_gdv`: Game Dynamics as Value Lattices
 
----
-
-## Let the Future Think Clearly
-
-This is not just theory. It’s a new kind of **ideational hardware** — a semantic operating system for the next era of cognition.
-
 
