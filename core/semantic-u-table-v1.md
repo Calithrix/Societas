@@ -1,5 +1,3 @@
-# Semantic-U-Table-V1
-
 # Semantic U-Substitution Table (V1.0)
 
 This is the canonical symbolic grammar of **Societas Analysis** — a system for encoding, manipulating, and evolving ideational structures. Each symbol represents a distinct stratal function. All conceptual modeling in Societas must use this table as its foundational logic.
