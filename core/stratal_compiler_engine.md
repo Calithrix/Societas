@@ -1,5 +1,6 @@
 # Stratal Compiler Engine
 
+
 **Version:** 1.0
 **Maintainer:** Matthew Coppola + ChatGPT (OpenAI)
 **Status:** ✅ Canonical
