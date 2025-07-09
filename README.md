@@ -52,7 +52,7 @@ This allows for:
 ## Attribution
 
 All ideas generated using **OpenAI’s ChatGPT**, curated and refined by [Matthew Coppola].  
-This project adheres to OpenAI’s attribution and brand usage policies. “ChatGPT Press” or derivative names are used only pending approval.
+This project adheres to OpenAI’s attribution and brand usage policies.
 
 ---
 
