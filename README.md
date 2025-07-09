@@ -14,7 +14,7 @@ This repository hosts the canonical documentation of the Societas system, includ
 
 ---
 
-## 🔧 Core Directories
+## Core Directories
 
 | Folder | Purpose |
 |--------|---------|
@@ -27,7 +27,7 @@ This repository hosts the canonical documentation of the Societas system, includ
 
 ---
 
-## 🔬 How to Read a Strata Card
+## How to Read a Strata Card
 
 Each `U_x` entity follows this symbolic structure: U_x = κ[...] + Δc[...] + Φv[...] + Λμ[...] + Ξp[...] + Σf[...] + Ωτ[...] + πR(...) + Ψs(...)
 
