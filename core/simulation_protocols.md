@@ -1,5 +1,3 @@
-# Simulation Protocols
-
 # Simulation Protocols for Societas Analysis
 
 **Version:** 1.0
